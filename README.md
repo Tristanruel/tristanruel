@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tristan Ruel</h1>
 <h3 align="center">Second year Electrical Engineering Student</h3>
 
-- 🌱 I’m currently learning **Python, Adobe, C**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **tristanruel11@gmail.com**
 
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/tristan-ruel)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/tristan-ruel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
