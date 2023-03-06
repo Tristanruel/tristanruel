@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan Ruel</h1>
 <h3 align="center">Second year Electrical Engineering Student</h3>
 
-- 🌱 I’m currently learning **Python, C, React.js**
+- 🌱 I’m currently learning **Ada, C, React.js**
 
 - 📫 How to reach me **tristanruel11@gmail.com**
 
