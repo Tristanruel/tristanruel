@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan Ruel</h1>
-<h3 align="center">Second year Electrical Engineering Student</h3>
+<h3 align="center">Third year Electrical Engineering Student</h3>
 
 - 🌱 I’m currently learning **Ada, C, React.js**
 
