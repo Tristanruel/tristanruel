@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MATLAB, Ada, C++, React.js**
 
-- 📫 How to reach me **tristanruel11@gmail.com**
+- 📫 How to reach me **contact@tristanruel.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/tristan-ruel)
 
